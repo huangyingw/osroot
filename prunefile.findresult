@@ -3,13 +3,11 @@
 /cgroups_test/*
 /dev/*
 /home/*
-/kafka-logs/*
 /lib/*
 /lib64/*
 /lost+found/*
 /media/*
 /mnt/*
-/opt/*
 /proc/*
 /root/*
 /sbin/*
@@ -18,7 +16,5 @@
 /sys/*
 /temp.errors/*
 /tmp/*
-/var/*
-/virtualization/*
 xa_portal.log
 xa_portal_sql.log
