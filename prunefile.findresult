@@ -19,7 +19,6 @@
 /sys/*
 /temp.errors/*
 /tmp/*
-/usr/*
 /vagrant/*
 /var/*
 /virtualization/*
