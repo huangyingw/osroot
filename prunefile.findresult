@@ -18,7 +18,6 @@
 /sys/*
 /temp.errors/*
 /tmp/*
-/vagrant/*
 /var/*
 /virtualization/*
 xa_portal.log
