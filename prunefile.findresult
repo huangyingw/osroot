@@ -2,7 +2,6 @@
 /boot/*
 /cgroups_test/*
 /dev/*
-/hadoop/*
 /home/*
 /kafka-logs/*
 /lib/*
